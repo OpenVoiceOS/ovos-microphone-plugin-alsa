@@ -1,8 +1,20 @@
 # Changelog
 
+## [Unreleased](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/tree/HEAD)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/compare/V0.0.0a1...HEAD)
+
+**Fixed bugs:**
+
+- Fix typo in classname used in plugin entrypoint [\#1](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/pull/1) ([NeonDaniel](https://github.com/NeonDaniel))
+
 ## [V0.0.0a1](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/tree/V0.0.0a1) (2023-05-17)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/compare/a090ff94802cef894f778b54f5301a5277f79084...V0.0.0a1)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/compare/V0.0.0a2...V0.0.0a1)
+
+## [V0.0.0a2](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/tree/V0.0.0a2) (2023-05-17)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/compare/a090ff94802cef894f778b54f5301a5277f79084...V0.0.0a2)
 
 
 
