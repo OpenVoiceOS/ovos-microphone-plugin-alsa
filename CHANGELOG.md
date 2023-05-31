@@ -1,20 +1,28 @@
 # Changelog
 
-## [Unreleased](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/tree/HEAD)
+## [0.0.0](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/tree/0.0.0) (2023-05-31)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/compare/V0.0.0a1...HEAD)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/compare/V0.0.0a3...0.0.0)
+
+**Implemented enhancements:**
+
+- Update GitHub automation to match ovos-utils and other modern packages [\#2](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/pull/2) ([NeonDaniel](https://github.com/NeonDaniel))
+
+## [V0.0.0a3](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/tree/V0.0.0a3) (2023-05-19)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/compare/V0.0.0a2...V0.0.0a3)
 
 **Fixed bugs:**
 
 - Fix typo in classname used in plugin entrypoint [\#1](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/pull/1) ([NeonDaniel](https://github.com/NeonDaniel))
 
-## [V0.0.0a1](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/tree/V0.0.0a1) (2023-05-17)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/compare/V0.0.0a2...V0.0.0a1)
-
 ## [V0.0.0a2](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/tree/V0.0.0a2) (2023-05-17)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/compare/a090ff94802cef894f778b54f5301a5277f79084...V0.0.0a2)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/compare/V0.0.0a1...V0.0.0a2)
+
+## [V0.0.0a1](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/tree/V0.0.0a1) (2023-05-17)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/compare/a090ff94802cef894f778b54f5301a5277f79084...V0.0.0a1)
 
 
 
