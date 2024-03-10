@@ -44,7 +44,10 @@ class AlsaMicrophone(Microphone):
 
     def read_chunk(self) -> Optional[bytes]:
         assert self._is_running, "Not running"
-        return self._queue.get(timeout=self.timeout)
+        try:
+            return self._queue.get(timeout=self.timeout)
+        except: # let the listener handle this, and maybe restart the plugin
+            return None
 
     def stop(self):
         assert self._thread is not None, "Not started"
