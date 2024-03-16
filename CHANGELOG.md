@@ -1,8 +1,16 @@
 # Changelog
 
-## [0.0.1a1](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/tree/0.0.1a1) (2024-03-10)
+## [0.0.1a2](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/tree/0.0.1a2) (2024-03-16)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/compare/V0.0.0...0.0.1a1)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/compare/V0.0.1a1...0.0.1a2)
+
+**Fixed bugs:**
+
+- fix shutdown [\#9](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/pull/9) ([JarbasAl](https://github.com/JarbasAl))
+
+## [V0.0.1a1](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/tree/V0.0.1a1) (2024-03-10)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/compare/V0.0.0...V0.0.1a1)
 
 **Fixed bugs:**
 
