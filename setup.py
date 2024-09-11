@@ -52,10 +52,15 @@ def required(requirements_file):
 PLUGIN_ENTRY_POINT = 'ovos-microphone-plugin-alsa = ovos_microphone_plugin_alsa:AlsaMicrophone'
 
 
+with open(os.path.join(BASEDIR, "README.md"), "r") as f:
+    long_description = f.read()
+
 setup(
     name='ovos-microphone-plugin-alsa',
     version=get_version(),
     description='A alsa microphone implementation for OVOS',
+    long_description=long_description,
+    long_description_content_type="text/markdown",
     url='https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa',
     author='JarbasAi',
     author_email='jarbasai@mailfence.com',
