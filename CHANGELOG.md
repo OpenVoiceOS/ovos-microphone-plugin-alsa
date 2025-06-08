@@ -1,33 +1,16 @@
 # Changelog
 
-## [0.1.0a1](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/tree/0.1.0a1) (2024-09-11)
+## [0.1.1a1](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/tree/0.1.1a1) (2025-06-08)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/compare/V0.0.1a2...0.1.0a1)
-
-**Merged pull requests:**
-
-- feat:semver [\#10](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/pull/10) ([JarbasAl](https://github.com/JarbasAl))
-
-## [V0.0.1a2](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/tree/V0.0.1a2) (2024-03-16)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/compare/V0.0.1a1...V0.0.1a2)
-
-**Fixed bugs:**
-
-- fix shutdown [\#9](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/pull/9) ([JarbasAl](https://github.com/JarbasAl))
-
-## [V0.0.1a1](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/tree/V0.0.1a1) (2024-03-10)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/compare/V0.0.0...V0.0.1a1)
-
-**Fixed bugs:**
-
-- Process must respawn when PulseAudio/PipeWire is restarted [\#7](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/issues/7)
-- fix/alsa\_crash [\#8](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/pull/8) ([JarbasAl](https://github.com/JarbasAl))
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/compare/V0.1.0...0.1.1a1)
 
 **Merged pull requests:**
 
-- add config example [\#3](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/pull/3) ([emphasize](https://github.com/emphasize))
+- fix: compatibility with ovos-plugin-manager 1.X.X [\#12](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/pull/12) ([JarbasAl](https://github.com/JarbasAl))
+
+## [V0.1.0](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/tree/V0.1.0) (2024-09-11)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/compare/0.1.0...V0.1.0)
 
 
 
