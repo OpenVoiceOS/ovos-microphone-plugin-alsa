@@ -56,7 +56,7 @@ with open(os.path.join(BASEDIR, "README.md"), "r") as f:
     long_description = f.read()
 
 setup(
-    name='ovos-microphone-plugin-alsa',
+    name='ovos_microphone_plugin_alsa',
     version=get_version(),
     description='A alsa microphone implementation for OVOS',
     long_description=long_description,
