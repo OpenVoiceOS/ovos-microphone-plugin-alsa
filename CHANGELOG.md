@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.4a5](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/tree/0.1.4a5) (2026-06-16)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/compare/0.1.4a2...0.1.4a5)
+
+**Merged pull requests:**
+
+- chore: add missing shared CI workflows [\#29](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/pull/29) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [0.1.4a2](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/tree/0.1.4a2) (2025-12-19)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/compare/0.1.4a1...0.1.4a2)
