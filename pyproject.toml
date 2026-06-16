@@ -33,7 +33,7 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
-test = []
+test = ["pytest"]
 
 [project.urls]
 Homepage = "https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa"
