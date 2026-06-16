@@ -38,7 +38,7 @@ test = []
 [project.urls]
 Homepage = "https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa"
 
-[project.entry-points."ovos.plugin.microphone"]
+[project.entry-points."opm.microphone"]
 ovos-microphone-plugin-alsa = "ovos_microphone_plugin_alsa:AlsaMicrophone"
 
 [tool.setuptools.dynamic]
