@@ -1,16 +1,40 @@
 # Changelog
 
-## [0.1.3a1](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/tree/0.1.3a1) (2025-11-04)
+## [0.1.4a6](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/tree/0.1.4a6) (2026-07-31)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/compare/V0.1.2...0.1.3a1)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/compare/0.1.4a5...0.1.4a6)
 
 **Merged pull requests:**
 
-- Update ovos-plugin-manager version constraint [\#15](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/pull/15) ([JarbasAl](https://github.com/JarbasAl))
+- docs: rewrite README in Simplified Technical English [\#31](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/pull/31) ([JarbasAl](https://github.com/JarbasAl))
 
-## [V0.1.2](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/tree/V0.1.2) (2025-06-08)
+## [0.1.4a5](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/tree/0.1.4a5) (2026-06-16)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/compare/0.1.2...V0.1.2)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/compare/0.1.4a2...0.1.4a5)
+
+**Merged pull requests:**
+
+- chore: add missing shared CI workflows [\#29](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/pull/29) ([JarbasAl](https://github.com/JarbasAl))
+
+## [0.1.4a2](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/tree/0.1.4a2) (2025-12-19)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/compare/0.1.4a1...0.1.4a2)
+
+**Merged pull requests:**
+
+- chore\(deps\): update dependency python to 3.14 [\#18](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/pull/18) ([renovate[bot]](https://github.com/apps/renovate))
+
+## [0.1.4a1](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/tree/0.1.4a1) (2025-12-18)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/compare/V0.1.3...0.1.4a1)
+
+**Merged pull requests:**
+
+- chore: Configure Renovate [\#17](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/pull/17) ([renovate[bot]](https://github.com/apps/renovate))
+
+## [V0.1.3](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/tree/V0.1.3) (2025-11-04)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-microphone-plugin-alsa/compare/0.1.3...V0.1.3)
 
 
 
