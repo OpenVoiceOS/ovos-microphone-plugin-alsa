@@ -1,11 +1,21 @@
 ## Description
 
-OpenVoiceOS Microphone plugin
+This plugin captures audio from an ALSA device for OpenVoiceOS (OVOS). It
+implements the `Microphone` interface from
+[ovos-plugin-manager](https://github.com/OpenVoiceOS/ovos-plugin-manager) and
+registers under the `opm.microphone` entry point as
+`ovos-microphone-plugin-alsa`.
 
+## Install
+
+```bash
+pip install ovos-microphone-plugin-alsa
+```
 
 ## Configuration
 
-If you need to customize the configuration, add/or merge below to your mycroft.conf
+Add this block to your `mycroft.conf`, or merge it with your existing
+`listener` section.
 
 ```python
 "listener": {
@@ -21,6 +31,11 @@ If you need to customize the configuration, add/or merge below to your mycroft.c
 }
 ```
 
-## Install
+## Related projects
 
-`pip install ovos-microphone-plugin-alsa`
+- [ovos-plugin-manager](https://github.com/OpenVoiceOS/ovos-plugin-manager) defines the `Microphone` template this plugin implements.
+- [ovos-dinkum-listener](https://github.com/OpenVoiceOS/ovos-dinkum-listener) is the OVOS listener service that loads microphone plugins.
+
+## License
+
+Apache License 2.0. See [LICENSE](LICENSE).
